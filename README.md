@@ -6,7 +6,7 @@ Mediamatics Technician
 
 *   🌍  I'm based in Switzerland
 *   👀 I’m interested in web technology
-*   🌱 I’m currently studying in HEIG-VD (Switzerland)
+*   🌱 I’m currently studying at HEIG-VD (Switzerland)
 *   🖥️  See my portfolio [here](https://jeremie-zurfluh.ch/)
 ### Skills 
 <p align="left">
