@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 BSc HES-SO in Media Engineering (HEIG-VD) • 🇨🇭 Based in Switzerland • 🖥️ <a href="https://jeremie-zurfluh.ch/">jeremie-zurfluh.ch</a>
+  🎓 BSc HES-SO in Media Engineering (HEIG-VD) • 🇨🇭 Based in Switzerland
 </p>
 
 ---
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28" alt="Python">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="28" alt="PHP">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="28" alt="Node.js">
+  <img src="https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=white" height="28" alt="uv">
 </div>
 
 #### Front-end
@@ -29,6 +30,7 @@
   <img src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3&logoColor=white" height="28" alt="D3.js">
   <img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" height="28" alt="Leaflet">
   <img src="https://img.shields.io/badge/OpenLayers-1F6B75?logo=openlayers&logoColor=white" height="28" alt="OpenLayers">
+  <img src="https://img.shields.io/badge/MapLibre-396CB2?logo=maplibre&logoColor=white" height="28" alt="MapLibre">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" height="28" alt="Tailwind">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap">
   <img src="https://img.shields.io/badge/DaisyUI-1AD1A5?logo=bootstrap&logoColor=white" height="28" alt="DaisyUI">
@@ -49,6 +51,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL">
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="28" alt="SQLite">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/PostGIS-336791?logo=postgis&logoColor=white" height="28" alt="PostGIS">
+  <img src="https://img.shields.io/badge/pgvector-336791?logo=pgvector&logoColor=white" height="28" alt="pgvector">
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" height="28" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB">
   <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" height="28" alt="Mongoose">
@@ -60,5 +64,6 @@
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" height="28" alt="Jest">
   <img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=white" height="28" alt="Playwright">
   <img src="https://custom-icon-badges.demolab.com/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" height="28" alt="Pytest">
+  <img src="https://img.shields.io/badge/Arize%20Phoenix-6F3FF5?logo=arize&logoColor=white" height="28" alt="Arize Phoenix">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker">
 </div>
