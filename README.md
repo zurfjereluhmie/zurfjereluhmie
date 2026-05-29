@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hi, I'm Jérémie</h1>
 
-<p align="left">
-  <b>Application Engineer</b> — I build robust, scalable web applications and care deeply about UI/UX so the journey is seamless, accessible, and delightful.
-</p>
-
 <p align="center">
-  🎓 BSc HES-SO in Media Engineering (HEIG-VD) • 🇨🇭 Based in Switzerland
+  🛠️ Software Engineer • 🎓 BSc HES-SO in Media Engineering (HEIG-VD) • 🇨🇭 Based in Switzerland
 </p>
 
 ---
