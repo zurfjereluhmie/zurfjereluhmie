@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/PostGIS-336791?logo=postgis&logoColor=white" height="28" alt="PostGIS">
   <img src="https://img.shields.io/badge/pgvector-336791?logo=pgvector&logoColor=white" height="28" alt="pgvector">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" height="28" alt="Elasticsearch">
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" height="28" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB">
   <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" height="28" alt="Mongoose">
