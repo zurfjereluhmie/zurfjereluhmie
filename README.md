@@ -61,9 +61,6 @@
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" height="28" alt="Jest">
   <img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=white" height="28" alt="Playwright">
   <img src="https://custom-icon-badges.demolab.com/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" height="28" alt="Pytest">
-  <img src="https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=white" height="28" alt="uv">
-  <img src="https://img.shields.io/badge/Ruff-30173d?logo=ruff&logoColor=white" height="28" alt="Ruff">
-  <img src="https://img.shields.io/badge/ty-30173d?logo=ty&logoColor=white" height="28" alt="ty">
   <img src="https://img.shields.io/badge/Arize%20Phoenix-6F3FF5?logo=arize&logoColor=white" height="28" alt="Arize Phoenix">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="28" alt="Kubernetes">
